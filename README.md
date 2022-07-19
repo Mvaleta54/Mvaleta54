@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mvaleta54
+- 👀 I’m interested in projects with open source databases
+- 🌱 I’m currently learning Data Analysis - SQL / Python / R
+- 💞️ I’m looking to gain more experience by working on open source projects
+- 📫 How to reach me [in/mvaleta](https://www.linkedin.com/in/mvaleta/)
